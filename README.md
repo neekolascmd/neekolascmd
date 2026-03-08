@@ -30,10 +30,10 @@ neekolas@github:~$ cat /etc/motd
 ```
  ╔══════════════════════════════════════════════════════════════════╗
  ║                                                                  ║
- ║   > Location:     South Carolina, USA                            ║
- ║   > Interests:    Reverse Engineering // 3D Printing // IoT      ║
- ║   > Currently:    Hacking 3D printer protocols                   ║
- ║   > Philosophy:   "If it has firmware, it can be modded."        ║
+ ║   > Location:     South Carolina, USA                           ║
+ ║   > Interests:    Reverse Engineering // 3D Printing // IoT     ║
+ ║   > Currently:    Hacking 3D printer protocols                  ║
+ ║   > Philosophy:   "If it has firmware, it can be modded."       ║
  ║                                                                  ║
  ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -125,10 +125,10 @@ neekolas@github:~$ cat /projects/featured.log
 
 ```
   ┌─────────────────────────────────────────────────────────────┐
-  │  AnkerMake M5 Protocol // 2026 Edition                      │
+  │  AnkerMake M5 Protocol // 2026 Edition                     │
   │                                                             │
   │  > Reverse-engineered proprietary 3D printer protocol       │
-  │  > CLI + Web UI for AnkerMake M5/M5C printers               │
+  │  > CLI + Web UI for AnkerMake M5/M5C printers              │
   │  > PrusaSlicer integration & G-code streaming               │
   │  > MQTT/PPPP/HTTPS protocol implementations                 │
   │  > Camera streaming & Home Assistant component              │
@@ -178,20 +178,6 @@ neekolas@github:~$ git log --graph --oneline
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neekolascmd/neekolascmd/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/neekolascmd/neekolascmd/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
-<!-- ======================= TROPHIES ========================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
-```console
-neekolas@github:~$ cat /var/log/achievements.log
-```
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=neekolascmd&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6&title_color=ff6b35)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
