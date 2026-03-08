@@ -181,20 +181,6 @@ neekolas@github:~$ git log --graph --oneline
 
 </div>
 
-<!-- ======================= TROPHIES ========================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
-```console
-neekolas@github:~$ cat /var/log/achievements.log
-```
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=neekolascmd&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=6&title_color=ff6b35)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 <!-- ======================== FOOTER =========================== -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
