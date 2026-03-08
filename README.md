@@ -30,10 +30,10 @@ neekolas@github:~$ cat /etc/motd
 ```
  ╔══════════════════════════════════════════════════════════════════╗
  ║                                                                  ║
- ║   > Location:     South Carolina, USA                           ║
- ║   > Interests:    Reverse Engineering // 3D Printing // IoT     ║
- ║   > Currently:    Hacking 3D printer protocols                  ║
- ║   > Philosophy:   "If it has firmware, it can be modded."       ║
+ ║   > Location:     South Carolina, USA                            ║
+ ║   > Interests:    Reverse Engineering // 3D Printing // IoT      ║
+ ║   > Currently:    Hacking 3D printer protocols                   ║
+ ║   > Philosophy:   "If it has firmware, it can be modded."        ║
  ║                                                                  ║
  ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -125,10 +125,10 @@ neekolas@github:~$ cat /projects/featured.log
 
 ```
   ┌─────────────────────────────────────────────────────────────┐
-  │  AnkerMake M5 Protocol // 2026 Edition                     │
+  │  AnkerMake M5 Protocol // 2026 Edition                      │
   │                                                             │
   │  > Reverse-engineered proprietary 3D printer protocol       │
-  │  > CLI + Web UI for AnkerMake M5/M5C printers              │
+  │  > CLI + Web UI for AnkerMake M5/M5C printers               │
   │  > PrusaSlicer integration & G-code streaming               │
   │  > MQTT/PPPP/HTTPS protocol implementations                 │
   │  > Camera streaming & Home Assistant component              │
