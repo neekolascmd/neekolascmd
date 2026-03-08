@@ -118,7 +118,7 @@ neekolas@github:~$ cat /projects/featured.log
 <div align="center">
 
 <a href="https://github.com/neekolascmd/ankermake-m5-protocol">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=neekolascmd&repo=ankermake-m5-protocol&theme=github_dark&border_color=ff6b35&title_color=ff6b35&icon_color=ff6b35&text_color=c9d1d9&bg_color=0d1117" />
+  <img src="profile/pin-ankermake-m5-protocol.svg" />
 </a>
 
 </div>
@@ -148,10 +148,10 @@ neekolas@github:~$ neofetch --github
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=neekolascmd&show_icons=true&theme=github_dark&border_color=ff6b35&title_color=ff6b35&icon_color=ff6b35&text_color=c9d1d9&bg_color=0d1117&hide_border=false&count_private=true" />
+<img width="49%" src="profile/stats.svg" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=neekolascmd&theme=github-dark-blue&border=ff6b35&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35&sideLabels=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&background=0d1117" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neekolascmd&layout=compact&theme=github_dark&border_color=ff6b35&title_color=ff6b35&text_color=c9d1d9&bg_color=0d1117&hide_border=false&langs_count=8" />
+<img width="40%" src="profile/top-langs.svg" />
 
 </div>
 
