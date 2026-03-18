@@ -107,6 +107,46 @@ neekolas@github:~$ ls -la /skills/
 
 </div>
 
+<!-- ===================== CERTIFICATIONS ===================== -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
+
+```console
+neekolas@github:~$ ls -la /certifications/
+```
+
+<div align="center">
+
+#### `// SECURITY & REVERSE ENGINEERING`
+
+![OSCP](https://img.shields.io/badge/OSCP-OffSec-ff6b35?style=for-the-badge&logo=offsec&logoColor=white)
+![GREM](https://img.shields.io/badge/GREM-GIAC-ff6b35?style=for-the-badge&logo=sansinstitute&logoColor=white)
+
+#### `// DEVELOPMENT & CLOUD`
+
+![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=ff6b35)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=ff6b35)
+
+</div>
+
+```
+  ┌─────────────────────────────────────────────────────────────┐
+  │  Certification Details                                      │
+  │                                                             │
+  │  OSCP    -- Offensive Security Certified Professional       │
+  │           Penetration testing with Kali Linux               │
+  │                                                             │
+  │  GREM    -- GIAC Reverse Engineering Malware                │
+  │           Malware analysis & reverse engineering            │
+  │                                                             │
+  │  AWS CCP -- AWS Certified Cloud Practitioner                │
+  │           Cloud fundamentals & architecture                 │
+  │                                                             │
+  │  GH-200  -- GitHub Actions                                   │
+  │           CI/CD automation & workflow management             │
+  └─────────────────────────────────────────────────────────────┘
+```
+
 <!-- ==================== FEATURED PROJECT ===================== -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
