@@ -1,0 +1,24 @@
+<svg width="400" height="120" viewBox="0 0 400 120" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">NOOP featured project</title>
+  <desc id="desc">Local-first wearable analytics for WHOOP 4, 5, and MG hardware</desc>
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, sans-serif; fill: #ff6b35; }
+    .description { font: 400 13px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .meta { font: 600 12px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .accent { fill: #ff6b35; }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" width="399" height="119" fill="#0d1117" stroke="#ff6b35"/>
+  <g transform="translate(25 35)">
+    <path class="accent" d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 1 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 0 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5v-9Zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 0 1 1-1h8Z"/>
+    <text x="25" y="0" class="header">noop</text>
+  </g>
+  <text x="25" y="65" class="description">Local-first wearable analytics for WHOOP hardware</text>
+  <g transform="translate(25 96)">
+    <circle cx="0" cy="-4" r="6" fill="#F05138"/>
+    <text x="15" y="0" class="meta">Swift</text>
+    <circle cx="78" cy="-4" r="6" fill="#7F52FF"/>
+    <text x="93" y="0" class="meta">Kotlin</text>
+    <circle cx="172" cy="-4" r="6" fill="#ff6b35"/>
+    <text x="187" y="0" class="meta">WHOOP 4 / 5 / MG</text>
+  </g>
+</svg>
