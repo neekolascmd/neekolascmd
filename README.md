@@ -1,246 +1,69 @@
-<!-- ============================================================ -->
-<!--  NEEKOLAS  //  GitHub Profile README                         -->
-<!--  Theme: Retro Terminal / Hacker  |  Accent: #ff6b35 (Fire)   -->
-<!-- ============================================================ -->
+<div align="center">
+
+# Hey, I'm Nick.
+
+### Building local-first software for hardware you own.
+
+Reverse engineering · Wearable interoperability · On-device analytics
+
+<p>
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-E8B84B?style=flat-square&logo=swift&logoColor=111111">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-E8B84B?style=flat-square&logo=kotlin&logoColor=111111">
+  <img alt="Bluetooth LE" src="https://img.shields.io/badge/Bluetooth_LE-6B737B?style=flat-square&logo=bluetooth&logoColor=white">
+  <img alt="Local first" src="https://img.shields.io/badge/local--first-6B737B?style=flat-square">
+</p>
+
+</div>
+
+I'm a developer and reverse engineer in South Carolina. I focus on useful hardware interoperability, privacy-minded applications, and turning undocumented protocols into tools people can inspect and run themselves.
+
+## What I'm working on
+
+### [NOOP](https://github.com/neekolascmd/noop)
+
+A local-first recovery and wearable analytics app for **macOS, iOS, and Android**. NOOP works directly with WHOOP 4.0, 5.0, and MG hardware while keeping data and analytics on the device.
+
+<div align="center">
+  <a href="https://github.com/neekolascmd/noop">
+    <img src="https://raw.githubusercontent.com/neekolascmd/noop/main/docs/assets/hero-v8.jpg" alt="NOOP running on iPhone, Mac, and Android" width="820">
+  </a>
+</div>
+
+<p align="center">
+  <img alt="Platforms" src="https://img.shields.io/badge/platforms-macOS%20%C2%B7%20iOS%20%C2%B7%20Android-E8B84B?style=flat-square">
+  <img alt="Offline by design" src="https://img.shields.io/badge/offline-by%20design-C8902F?style=flat-square">
+  <img alt="Account free" src="https://img.shields.io/badge/account-free-6B737B?style=flat-square">
+  <img alt="WHOOP hardware" src="https://img.shields.io/badge/hardware-WHOOP%204%20%C2%B7%205%20%C2%B7%20MG-6B737B?style=flat-square">
+</p>
+
+Current focus:
+
+- WHOOP 4.0, 5.0, and MG Bluetooth LE interoperability
+- Recovery, strain, HRV, and sleep analysis computed on-device
+- Shared Swift and Kotlin analytics fixtures
+- Hardware verification, release reliability, and cross-platform parity
+
+[Explore NOOP →](https://github.com/neekolascmd/noop) · [Latest release →](https://github.com/neekolascmd/noop/releases/latest)
+
+## Selected work
+
+| Project | What it does |
+| --- | --- |
+| **[NOOP](https://github.com/neekolascmd/noop)** | Private, local-first wearable analytics across Apple platforms and Android. |
+| **[AnkerMake M5 Protocol](https://github.com/neekolascmd/ankermake-m5-protocol)** | Direct printer control, protocol tooling, slicer integration, and Home Assistant support for M5/M5C hardware. |
+
+## Toolbox
+
+`Swift` · `Kotlin` · `Python` · `TypeScript` · `SwiftUI` · `Bluetooth LE` · `SQLite` · `GitHub Actions`
+
+## How I like to build
+
+- **Local first:** the useful path should not depend on an account or a remote service.
+- **Evidence over guesses:** protocol work should be reproducible and clearly separate verified behavior from experiments.
+- **Own your hardware:** people should be able to understand, maintain, and extend the devices they bought.
 
 <div align="center">
 
-```
- ███╗   ██╗███████╗███████╗██╗  ██╗ ██████╗ ██╗      █████╗ ███████╗
- ████╗  ██║██╔════╝██╔════╝██║ ██╔╝██╔═══██╗██║     ██╔══██╗██╔════╝
- ██╔██╗ ██║█████╗  █████╗  █████╔╝ ██║   ██║██║     ███████║███████╗
- ██║╚██╗██║██╔══╝  ██╔══╝  ██╔═██╗ ██║   ██║██║     ██╔══██║╚════██║
- ██║ ╚████║███████╗███████╗██║  ██╗╚██████╔╝███████╗██║  ██║███████║
- ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
-```
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%24+whoami;wearable+interop+%7C+local-first+apps+%7C+reverse+engineering" alt="Typing SVG" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=neekolascmd&style=flat-square&color=ff6b35&label=PROFILE+VIEWS" alt="Profile Views"/>
+<sub>South Carolina, USA · building in public on GitHub</sub>
 
 </div>
-
-<!-- ===================== TERMINAL DIVIDER ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
-```console
-neekolas@github:~$ cat /etc/motd
-```
-
-```
- ╔══════════════════════════════════════════════════════════════════╗
- ║                                                                  ║
- ║   > Location:     South Carolina, USA                            ║
- ║   > Interests:    Wearable Interop // Health Analytics // Apps   ║
- ║   > Currently:    Maintaining NOOP for WHOOP 4 / 5 / MG          ║
- ║   > Philosophy:   "If it has firmware, it can be modded."        ║
- ║                                                                  ║
- ╚══════════════════════════════════════════════════════════════════╝
-```
-
-<!-- ======================== ABOUT ME ========================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
-```console
-neekolas@github:~$ cat about.txt
-```
-
-<div align="left">
-
-```yaml
-name: Neekolas
-located_in: SC, USA
-current_project: NOOP — local-first wearable analytics
-
-fields_of_interest:
-  - "Wearable Interoperability"
-  - "Reverse Engineering & Protocol Analysis"
-  - "On-Device Health Analytics"
-  - "Cross-Platform App Development"
-  - "Community Software Stewardship"
-
-currently_hacking:
-  - "WHOOP 4 / 5 / MG BLE interoperability"
-  - "Swift + Kotlin analytics parity"
-  - "On-device recovery, strain, HRV & sleep analysis"
-  - "Hardware verification, CI & release reliability"
-
-fun_fact: "I maintain a local-first wearable app that computes recovery and sleep metrics on-device."
-```
-
-</div>
-
-<!-- ======================= TECH STACK ======================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
-```console
-neekolas@github:~$ ls -la /skills/
-```
-
-<div align="center">
-
-#### `// LANGUAGES`
-
-![Swift](https://img.shields.io/badge/Swift-ff6b35?style=for-the-badge&logo=swift&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-ff6b35?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-ff6b35?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-ff6b35?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff6b35?style=for-the-badge&logo=javascript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-ff6b35?style=for-the-badge&logo=gnubash&logoColor=white)
-
-#### `// TOOLS & PLATFORMS`
-
-![Xcode](https://img.shields.io/badge/Xcode-1a1a2e?style=for-the-badge&logo=xcode&logoColor=ff6b35)
-![Android](https://img.shields.io/badge/Android-1a1a2e?style=for-the-badge&logo=android&logoColor=ff6b35)
-![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=for-the-badge&logo=sqlite&logoColor=ff6b35)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=ff6b35)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=ff6b35)
-![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=ff6b35)
-
-#### `// WEARABLES & DATA`
-
-![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0d1117?style=for-the-badge&logo=bluetooth&logoColor=ff6b35)
-![WHOOP 4 / 5 / MG](https://img.shields.io/badge/WHOOP_4_%2F_5_%2F_MG-0d1117?style=for-the-badge&logoColor=ff6b35)
-![Apple Health](https://img.shields.io/badge/Apple_Health-0d1117?style=for-the-badge&logo=apple&logoColor=ff6b35)
-![Local First](https://img.shields.io/badge/Local_First-0d1117?style=for-the-badge&logo=icloud&logoColor=ff6b35)
-
-</div>
-
-<!-- ===================== CERTIFICATIONS ===================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
-```console
-neekolas@github:~$ ls -la /certifications/
-```
-
-<div align="center">
-
-#### `// SECURITY & REVERSE ENGINEERING`
-
-![OSCP](https://img.shields.io/badge/OSCP-OffSec-ff6b35?style=for-the-badge&logo=offsec&logoColor=white)
-![GREM](https://img.shields.io/badge/GREM-GIAC-ff6b35?style=for-the-badge&logo=sansinstitute&logoColor=white)
-
-#### `// DEVELOPMENT & CLOUD`
-
-![AWS CCP](https://img.shields.io/badge/AWS_Cloud_Practitioner-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=ff6b35)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=ff6b35)
-
-</div>
-
-```
-  ┌─────────────────────────────────────────────────────────────┐
-  │  Certification Details                                      │
-  │                                                             │
-  │  OSCP    -- Offensive Security Certified Professional       │
-  │           Penetration testing with Kali Linux               │
-  │                                                             │
-  │  GREM    -- GIAC Reverse Engineering Malware                │
-  │           Malware analysis & reverse engineering            │
-  │                                                             │
-  │  AWS CCP -- AWS Certified Cloud Practitioner                │
-  │           Cloud fundamentals & architecture                 │
-  │                                                             │
-  │  GH-200  -- GitHub Actions                                   │
-  │           CI/CD automation & workflow management             │
-  └─────────────────────────────────────────────────────────────┘
-```
-
-<!-- ==================== FEATURED PROJECT ===================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
-```console
-neekolas@github:~$ cat /projects/featured.log
-```
-
-<div align="center">
-
-<a href="https://github.com/neekolascmd/noop">
-  <img src="profile/pin-noop.svg" />
-</a>
-
-</div>
-
-```
-  ┌─────────────────────────────────────────────────────────────┐
-  │  NOOP // Local-first wearable analytics                    │
-  │                                                             │
-  │  > macOS + iOS + Android app for WHOOP hardware             │
-  │  > WHOOP 4 / 5 / MG BLE interoperability                    │
-  │  > On-device recovery, strain, HRV & sleep analytics        │
-  │  > Swift + Kotlin parity with shared analytics fixtures     │
-  │  > Hardware verification, release & CI stewardship          │
-  │  > Offline by design — no server, telemetry, or account     │
-  │                                                             │
-  │  Platforms: macOS // iOS // Android                         │
-  └─────────────────────────────────────────────────────────────┘
-```
-
-<!-- ====================== GITHUB STATS ======================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
-```console
-neekolas@github:~$ neofetch --github
-```
-
-<div align="center">
-
-<img width="49%" src="profile/stats.svg" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=neekolascmd&theme=github-dark-blue&border=ff6b35&stroke=ff6b35&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35&sideLabels=ff6b35&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&background=0d1117" />
-
-<img width="40%" src="profile/top-langs.svg" />
-
-</div>
-
-<!-- ================== ACTIVITY GRAPH ========================= -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
-```console
-neekolas@github:~$ git log --graph --oneline
-```
-
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=neekolascmd&bg_color=0d1117&color=ff6b35&line=ff6b35&point=c9d1d9&area_color=ff6b35&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-<!-- ==================== CONTRIBUTION SNAKE =================== -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neekolascmd/neekolascmd/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neekolascmd/neekolascmd/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/neekolascmd/neekolascmd/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
-<!-- ======================== FOOTER =========================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=2&section=header"/>
-
-<div align="center">
-
-```
-  ┌─────────────────────────────────────────────────────────────┐
-  │                                                             │
-  │          "Talk is cheap. Show me the code."                 │
-  │                              — Linus Torvalds               │
-  │                                                             │
-  └─────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b35&height=80&section=footer"/>
-
-</div>
-
-<!-- ============================================================ -->
-<!--  EOF  //  Built with obsession                                -->
-<!-- ============================================================ -->
