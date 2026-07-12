@@ -14,7 +14,7 @@
  ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
 ```
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%24+whoami;reverse+engineer+%7C+maker+%7C+software+dev" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%24+whoami;wearable+interop+%7C+local-first+apps+%7C+reverse+engineering" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=neekolascmd&style=flat-square&color=ff6b35&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -31,8 +31,8 @@ neekolas@github:~$ cat /etc/motd
  ╔══════════════════════════════════════════════════════════════════╗
  ║                                                                  ║
  ║   > Location:     South Carolina, USA                            ║
- ║   > Interests:    Reverse Engineering // 3D Printing // IoT      ║
- ║   > Currently:    Hacking 3D printer protocols                   ║
+ ║   > Interests:    Wearable Interop // Health Analytics // Apps   ║
+ ║   > Currently:    Maintaining NOOP for WHOOP 4 / 5 / MG          ║
  ║   > Philosophy:   "If it has firmware, it can be modded."        ║
  ║                                                                  ║
  ╚══════════════════════════════════════════════════════════════════╝
@@ -51,22 +51,22 @@ neekolas@github:~$ cat about.txt
 ```yaml
 name: Neekolas
 located_in: SC, USA
-current_project: AnkerMake M5 Protocol (2026 Edition)
+current_project: NOOP — local-first wearable analytics
 
 fields_of_interest:
-  - "Reverse Engineering"
-  - "Protocol Analysis"
-  - "3D Printing & Hardware Modding"
-  - "IoT & Home Automation"
-  - "Open Source Development"
+  - "Wearable Interoperability"
+  - "Reverse Engineering & Protocol Analysis"
+  - "On-Device Health Analytics"
+  - "Cross-Platform App Development"
+  - "Community Software Stewardship"
 
 currently_hacking:
-  - "MQTT / PPPP / HTTPS printer protocols"
-  - "G-code validation & streaming"
-  - "PrusaSlicer integrations"
-  - "Home Assistant custom components"
+  - "WHOOP 4 / 5 / MG BLE interoperability"
+  - "Swift + Kotlin analytics parity"
+  - "On-device recovery, strain, HRV & sleep analysis"
+  - "Hardware verification, CI & release reliability"
 
-fun_fact: "I reverse-engineered a 3D printer's proprietary protocol and made it open source."
+fun_fact: "I maintain a local-first wearable app that computes recovery and sleep metrics on-device."
 ```
 
 </div>
@@ -83,27 +83,28 @@ neekolas@github:~$ ls -la /skills/
 
 #### `// LANGUAGES`
 
+![Swift](https://img.shields.io/badge/Swift-ff6b35?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-ff6b35?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ff6b35?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ff6b35?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-ff6b35?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-ff6b35?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-ff6b35?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ff6b35?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-ff6b35?style=for-the-badge&logo=gnubash&logoColor=white)
 
 #### `// TOOLS & PLATFORMS`
 
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=for-the-badge&logo=linux&logoColor=ff6b35)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=ff6b35)
+![Xcode](https://img.shields.io/badge/Xcode-1a1a2e?style=for-the-badge&logo=xcode&logoColor=ff6b35)
+![Android](https://img.shields.io/badge/Android-1a1a2e?style=for-the-badge&logo=android&logoColor=ff6b35)
+![SQLite](https://img.shields.io/badge/SQLite-1a1a2e?style=for-the-badge&logo=sqlite&logoColor=ff6b35)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1a1a2e?style=for-the-badge&logo=githubactions&logoColor=ff6b35)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=ff6b35)
-![Home Assistant](https://img.shields.io/badge/Home_Assistant-1a1a2e?style=for-the-badge&logo=homeassistant&logoColor=ff6b35)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-1a1a2e?style=for-the-badge&logo=raspberrypi&logoColor=ff6b35)
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1a2e?style=for-the-badge&logo=visualstudiocode&logoColor=ff6b35)
 
-#### `// PROTOCOLS & COMMS`
+#### `// WEARABLES & DATA`
 
-![MQTT](https://img.shields.io/badge/MQTT-0d1117?style=for-the-badge&logo=eclipsemosquitto&logoColor=ff6b35)
-![HTTPS](https://img.shields.io/badge/HTTPS-0d1117?style=for-the-badge&logo=letsencrypt&logoColor=ff6b35)
-![WebSocket](https://img.shields.io/badge/WebSocket-0d1117?style=for-the-badge&logo=socketdotio&logoColor=ff6b35)
+![Bluetooth LE](https://img.shields.io/badge/Bluetooth_LE-0d1117?style=for-the-badge&logo=bluetooth&logoColor=ff6b35)
+![WHOOP 4 / 5 / MG](https://img.shields.io/badge/WHOOP_4_%2F_5_%2F_MG-0d1117?style=for-the-badge&logoColor=ff6b35)
+![Apple Health](https://img.shields.io/badge/Apple_Health-0d1117?style=for-the-badge&logo=apple&logoColor=ff6b35)
+![Local First](https://img.shields.io/badge/Local_First-0d1117?style=for-the-badge&logo=icloud&logoColor=ff6b35)
 
 </div>
 
@@ -157,24 +158,24 @@ neekolas@github:~$ cat /projects/featured.log
 
 <div align="center">
 
-<a href="https://github.com/neekolascmd/ankermake-m5-protocol">
-  <img src="profile/pin-ankermake-m5-protocol.svg" />
+<a href="https://github.com/neekolascmd/noop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=neekolascmd&repo=noop&theme=github_dark&title_color=ff6b35&icon_color=ff6b35&border_color=ff6b35" />
 </a>
 
 </div>
 
 ```
   ┌─────────────────────────────────────────────────────────────┐
-  │  AnkerMake M5 Protocol // 2026 Edition                      │
+  │  NOOP // Local-first wearable analytics                    │
   │                                                             │
-  │  > Reverse-engineered proprietary 3D printer protocol       │
-  │  > CLI + Web UI for AnkerMake M5/M5C printers               │
-  │  > PrusaSlicer integration & G-code streaming               │
-  │  > MQTT/PPPP/HTTPS protocol implementations                 │
-  │  > Camera streaming & Home Assistant component              │
-  │  > 800+ commits deep                                        │
+  │  > macOS + iOS + Android app for WHOOP hardware             │
+  │  > WHOOP 4 / 5 / MG BLE interoperability                    │
+  │  > On-device recovery, strain, HRV & sleep analytics        │
+  │  > Swift + Kotlin parity with shared analytics fixtures     │
+  │  > Hardware verification, release & CI stewardship          │
+  │  > Offline by design — no server, telemetry, or account     │
   │                                                             │
-  │  Languages: Python // HTML // JavaScript // TeX             │
+  │  Platforms: macOS // iOS // Android                         │
   └─────────────────────────────────────────────────────────────┘
 ```
 
