@@ -159,7 +159,7 @@ neekolas@github:~$ cat /projects/featured.log
 <div align="center">
 
 <a href="https://github.com/neekolascmd/noop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=neekolascmd&repo=noop&theme=github_dark&title_color=ff6b35&icon_color=ff6b35&border_color=ff6b35" />
+  <img src="profile/pin-noop.svg" />
 </a>
 
 </div>
