@@ -25,7 +25,7 @@ A local-first recovery and wearable analytics app for **macOS, iOS, and Android*
 
 <div align="center">
   <a href="https://github.com/neekolascmd/noop">
-    <img src="https://raw.githubusercontent.com/neekolascmd/noop/main/docs/assets/hero-v8.jpg" alt="NOOP running on iPhone, Mac, and Android" width="820">
+    <img src="https://raw.githubusercontent.com/neekolascmd/noop/main/docs/assets/hero-v8.jpg" alt="NOOP running on iPhone, Mac, and Android" width="760">
   </a>
 </div>
 
@@ -49,7 +49,7 @@ Current focus:
 
 | Project | What it does |
 | --- | --- |
-| **[NOOP](https://github.com/neekolascmd/noop)** | Private, local-first wearable analytics across Apple platforms and Android. |
+| **[NOOP](https://github.com/neekolascmd/noop)** | Offline, local-first wearable analytics across Apple platforms and Android. |
 | **[AnkerMake M5 Protocol](https://github.com/neekolascmd/ankermake-m5-protocol)** | Direct printer control, protocol tooling, slicer integration, and Home Assistant support for M5/M5C hardware. |
 
 ## Toolbox
